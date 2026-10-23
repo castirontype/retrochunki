@@ -1,0 +1,63 @@
+/* Written by `dfl build` from the fonts beside it; rebuild rather than edit. */
+
+/* RetroChunki Light */
+@font-face {
+  font-family: "RetroChunki";
+  src: url("RetroChunki-Light.woff2") format("woff2");
+  font-weight: 300;
+  font-stretch: 100%;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* RetroChunki Regular */
+@font-face {
+  font-family: "RetroChunki";
+  src: url("RetroChunki-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-stretch: 100%;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* RetroChunki Slanted */
+@font-face {
+  font-family: "RetroChunki";
+  src: url("RetroChunki-Slanted.woff2") format("woff2");
+  font-weight: 400;
+  font-stretch: 100%;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* RetroChunki Medium */
+@font-face {
+  font-family: "RetroChunki";
+  src: url("RetroChunki-Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-stretch: 100%;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* RetroChunki Bold */
+@font-face {
+  font-family: "RetroChunki";
+  src: url("RetroChunki-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-stretch: 100%;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* RetroChunki Regular */
+/* font-variation-settings axes: slnt 0 to 12 */
+@font-face {
+  font-family: "RetroChunki VF";
+  src: url("RetroChunki-VF.woff2") format("woff2") tech(variations),
+       url("RetroChunki-VF.woff2") format("woff2-variations");
+  font-weight: 300 700;
+  font-stretch: 100%;
+  font-style: normal;
+  font-display: swap;
+}
